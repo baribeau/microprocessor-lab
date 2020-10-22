@@ -1,5 +1,6 @@
 # microprocessor-lab
 Lab 2 of MTE241 Intro to Computer Structures and Real-time Systems
+
 Authors: Julia Baribeau and Glenn Tipold
 
 The code we wrote is in main.c. Everything else is system configuration, startup, etc.
