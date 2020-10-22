@@ -9,6 +9,7 @@ The goal of the lab was to write four functions which work in tandem with a micr
 hardware and peripherals. 
 
 The four functions are as follows:
+
   Part 1 -- Write a program to continually read the value of the pushbutton, and turn the topmost
             (or leftmost) LED on when the button is down and off when the button is up.
             
