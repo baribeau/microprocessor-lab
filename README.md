@@ -11,14 +11,17 @@ hardware and peripherals.
 The four functions are as follows:
   Part 1 -- Write a program to continually read the value of the pushbutton, and turn the topmost
             (or leftmost) LED on when the button is down and off when the button is up.
+            
   Part 2 -- Write a program to continually read the joystick and print a message out the serial port
             that indicates whether the joystick position is North, South, East, West or Centre, and whether
             or not it’s pressed in.
+            
   Part 3 -- Write a program to repeatedly read a string that’s typed by the user into the serial port,
             convert that string into a number, and display the number in binary on the LEDs. The number
             can be in the range of 0 to 255. When entering text through the serial port, you should end the
             input by pressing ctrl+J which is the ASCII newline character. So for example, if the user enters
             75 and presses ctrl+J, the LEDs should display 1001011.
+            
   Part 4 -- Write a program to continually read the value of the analog to digital converter, and
             print the value out the serial port as a decimal number.
             
